@@ -11,7 +11,7 @@ Please refer to the `CHANGELOG.md` for a list of changes.
 ## Installation
 
 ```
-composer require axllent/simplehtmldom
+composer require jesslynkoh89/simplehtmldom
 ```
 
 ## Documentation

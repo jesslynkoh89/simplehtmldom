@@ -1,5 +1,5 @@
 {
-    "name": "axllent/simplehtmldom",
+    "name": "jesslynkoh89/simplehtmldom",
     "description": "PHP Simple HTML DOM Parser with namespace & bug fixes",
     "keywords": ["html", "dom", "simple"],
     "homepage": "http://simplehtmldom.sourceforge.net/",
@@ -7,12 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "S.C. Chen",
-            "email": "me578022@gmail.com"
-        },
-        {
-            "name": "Ralph Slooten",
-            "email": "axllent@gmail.com"
+            "name": "jess",
+            "email": "jesslynkoh89@gmail.com"
         }
     ],
     "require": {
